@@ -1,1 +1,1 @@
-just ok
+just readme
